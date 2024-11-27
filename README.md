@@ -33,7 +33,7 @@ new-year-countdown/
 │   ├── css/             # Folder for CSS files  
 │   │   └── style.css    # Main stylesheet  
 ├── routes/  
-│   └── server.js         # Express route for handling the home page                # Main Express server setup  
+│   └── server.js         # Main Express server setup  
 ├── package.json         # Project dependencies and scripts  
 └── README.md            # Project documentation  
 
@@ -51,3 +51,6 @@ Contributions are welcome! Feel free to submit a pull request or open an issue f
 ✨ Acknowledgments
 Thanks to the amazing Express.js and EJS communities for their robust tools and support!
 Inspired by the joy of celebrating the New Year.
+
+
+
