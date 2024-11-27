@@ -20,22 +20,6 @@ CSS: For styling and layout.
 🎮 How to Use
 Open the app in your browser.
 View the live countdown to the New Year!
-Modify the code to target a different date if needed.
-
-📂 File Structure
-new-year-countdown/  
-├── views/  
-│   └── index.ejs        # Main EJS template for rendering the countdown  
-├── public/
-├── img                   # Image folder
-│   └── xmastime.avif   # Background image for the countdown
-├── main.js                # Main JavaScript file for the countdown
-│   ├── css/             # Folder for CSS files  
-│   │   └── style.css    # Main stylesheet  
-├── routes/  
-│   └── server.js         # Main Express server setup  
-├── package.json         # Project dependencies and scripts  
-└── README.md            # Project documentation  
 
 
 💡 Future Enhancements
