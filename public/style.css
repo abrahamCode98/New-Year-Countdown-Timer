@@ -21,7 +21,7 @@ body {
 
 #days, #hrs, #min, #sec {
     font-size: 50px;
-    color: white;
+    /* color: blue; */
 }
 
 .label {
@@ -37,7 +37,6 @@ body {
     & h2 {
         color: goldenrod;
     }
-    /* border: 1px solid red; */
 }
 
 h1 {
