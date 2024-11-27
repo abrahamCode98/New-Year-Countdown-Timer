@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /* background-color: black; */
+    background-image: url(img/xmastime.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 75px;
+}
+
+.main_wrapper {
+    position: absolute;
+    left: 38%;
+    top: 30%;
+}
+
+#days, #hrs, #min, #sec {
+    font-size: 50px;
+    color: white;
+}
+
+.label {
+    width: 20rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    left: 37%;
+    top: 23%;
+    font-size: medium;
+
+    & h2 {
+        color: goldenrod;
+    }
+    /* border: 1px solid red; */
+}
+
+h1 {
+    font-family: monospace;
+    /* color: blue; */
+    color: goldenrod;
+    font-size: 50px;
+    position: absolute;
+    left: 25%;
+    top: 10%;
+}
+
+.btn_wrapper {
+    margin-top: 16rem;
+    margin-left: 35rem;
+}
+
+#startbtn {
+   padding: 10px 20px;
+   border-radius: 10px;
+   border: none;
+   font-size: large;
+   transition: 0.5s;
+}
+
+#startbtn:hover {
+    background-color: rgb(44, 50, 59);
+    color: whitesmoke;
+    
+}
+
+.col_one, .col_two, .col_three{
+    font-size: 50px;
+    color: white;
+}
